@@ -7,8 +7,9 @@ Animated Login and Registration Form in Html CSS &amp; Javascript
 ![signin](https://github.com/Ashna2002/Login-and-Registration-Form/assets/83365125/84ee1825-3c60-4d27-9dc7-59d348c6b188)
 
 
-# Animated-Login-Form
+# Simple-Animated-Login-Form
 <br>
+Animated Login form in HTML & CSS
 
 ![signin](https://github.com/Ashna2002/Login-and-Registration-Form/assets/83365125/e440d4f8-23a0-42d3-8e6b-752b848f6c33)
 
